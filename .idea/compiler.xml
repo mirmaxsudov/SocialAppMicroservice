@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SocialSearchService" />
+        <module name="SocialGetaway" />
+        <module name="SocialNotificationService" />
+        <module name="SocialPostService" />
+        <module name="SocialUserService" />
+        <module name="SocialFileService" />
+        <module name="SocialCommentService" />
+        <module name="SocialRegistry" />
+        <module name="SocialLikeService" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SocialCommentService" options="-parameters" />
+      <module name="SocialFileService" options="-parameters" />
+      <module name="SocialGetaway" options="-parameters" />
+      <module name="SocialLikeService" options="-parameters" />
+      <module name="SocialNotificationService" options="-parameters" />
+      <module name="SocialPostService" options="-parameters" />
+      <module name="SocialRegistry" options="-parameters" />
+      <module name="SocialSearchService" options="-parameters" />
+      <module name="SocialUserService" options="-parameters" />
+    </option>
+  </component>
+</project>

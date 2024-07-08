@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SocailUserService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialCommentService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialFileService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialGetaway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialLikeService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialNotificationService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialPostService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialRegistry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocialSearchService/src/main/java" charset="UTF-8" />
+  </component>
+</project>
